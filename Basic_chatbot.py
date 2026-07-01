@@ -1,4 +1,4 @@
-'''print("Chatbot:Hi,Type 'bye' to exit.")
+print("Chatbot:Hi,Type 'bye' to exit.")
 
 while True:
     user=input("You:  ").lower()
@@ -8,8 +8,4 @@ while True:
             print("Chatbot:I'm fine, thanks!")  
     elif user=="bye":
         print("Chatbot:Goodbye")
-        break'''         
-
-import mediapipe as mp
-print(mp.__version__)
-    
+        break

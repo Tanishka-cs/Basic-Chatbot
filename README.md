@@ -22,7 +22,7 @@ A beginner-friendly chatbot built using Python. This chatbot responds to a few p
 ```
 simple-chatbot/
 │
-├── chatbot.py
+├── Basic_chatbot.py
 └── README.md
 ```
 
@@ -34,7 +34,7 @@ simple-chatbot/
 4. Run the program:
 
 ```bash
-python chatbot.py
+python Basic_chatbot.py
 ```
 
 ## 💬 Sample Output
